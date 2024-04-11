@@ -1,0 +1,21 @@
+.subsection {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.subsection.preview {
+    font-size: 24px;
+}
+
+#second{
+    color:blue;
+    font-size: 36px;
+}
+
+#fourth{
+    color: black;
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24;
+}
